@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NFwWsMIXHsjcRuEy/BQWUzmjIY/HpWOJ0dH3n+oLogs=",
+  "Source": "cake-app",
+  "BasePath": "_content/cake-app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
